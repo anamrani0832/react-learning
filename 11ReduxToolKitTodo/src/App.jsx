@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       
-
+<h1>Hello Redux toolkit is going to work</h1>
      
 
       
